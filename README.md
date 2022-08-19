@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## About project
+
+This project is developed to get random color on background which display the rgb code of the background-color.
+
 ## Available Scripts
 
 In the project directory, you can run:
